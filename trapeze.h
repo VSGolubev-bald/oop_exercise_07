@@ -1,5 +1,5 @@
-#ifndef OOP7_HEXAGON_H
-#define OOP7_HEXAGON_H
+#ifndef OOP7_TRAPEZE_H
+#define OOP7_TRAPEZE_H
 
 #include "figure.h"
 
@@ -17,4 +17,4 @@ public:
 };
 
 
-#endif //OOP7_HEXAGON_H
+#endif //OOP7_TRAPEZE_H

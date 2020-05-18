@@ -1,6 +1,5 @@
-
-#ifndef OOP7_OCTAGON_H
-#define OOP7_OCTAGON_H
+#ifndef OOP7_RHOMBUS_H
+#define OOP7_RHOMBUS_H
 
 
 #include "figure.h"
@@ -19,4 +18,4 @@ public:
 };
 
 
-#endif //OOP7_OCTAGON_H
+#endif //OOP7_RHOMBUS_H
