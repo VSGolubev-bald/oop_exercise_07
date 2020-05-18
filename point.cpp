@@ -1,7 +1,3 @@
-//
-// Created by magom on 08.12.2019.
-//
-
 #include "point.h"
 #include <cmath>
 
