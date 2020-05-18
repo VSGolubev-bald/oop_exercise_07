@@ -1,7 +1,3 @@
-//
-// Created by magom on 08.12.2019.
-//
-
 #ifndef OOP7_POINT_H
 #define OOP7_POINT_H
 
