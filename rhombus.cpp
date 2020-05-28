@@ -8,11 +8,11 @@ point rhombus::center() const {
     return p;
 }
 void rhombus::print(std::ostream& os) const {
-    os << "octagon\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << '\n';
+    os << "rhombus\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << '\n';
 }
 
 void rhombus::printFile(std::ofstream& of) const {
-    of << "octagon\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << '\n';
+    of << "rhombus\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << '\n';
 }
 
 double rhombus::square() const {

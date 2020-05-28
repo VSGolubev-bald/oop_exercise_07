@@ -9,11 +9,11 @@ point trapeze::center() const {
     return p;
 }
 void trapeze::print(std::ostream& os) const {
-    os << "hexagon\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << "\n";
+    os << "trapeze\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << "\n";
 }
 
 void trapeze::printFile(std::ofstream &of) const {
-    of << "hexagon\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << "\n";
+    of << "trapeze\n"<< a_ << '\n' << b_ << '\n' << c_ << '\n' << d_ << "\n";
 }
 
 double trapeze::square() const {
